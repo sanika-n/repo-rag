@@ -78,4 +78,4 @@ def extract_and_vectorize(repo_path):
     print("All embeddings stored successfully in Pinecone!")
 
 # Run the function
-extract_and_vectorize("C:\\Users\\nairs\\CS_Sanika\\mesa_main")
+extract_and_vectorize("path where the github repo is cloned") # Replace with your repo path
